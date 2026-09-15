@@ -1,0 +1,9 @@
+board_manager:
+    additional_urls:
+        - http://arduino.esp8266.com/stable/package_esp8266com_index.json
+directories:
+    builtin:
+        libraries: C:\Users\Alumno\AppData\Local\Arduino15\libraries
+    data: c:\Users\Alumno\AppData\Local\Arduino15
+    user: c:\Users\Alumno\Documents\Arduino
+locale: en
